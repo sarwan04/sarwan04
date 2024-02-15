@@ -1,16 +1,18 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**sarwan04/sarwan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Muhammad Sarwani**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Web Developer**<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya adalah seorang yang antusias dalam mendalami dunia pemrograman web. Saya memiliki keahlian dalam berbagai teknologi web, termasuk HTML, CSS, JavaScript, dan kerangka kerja seperti React dan Node.js. Saya memiliki pengalaman dalam membangun situs web responsif dan aplikasi web dinamis. Saya senang belajar hal baru dan selalu bersemangat untuk meningkatkan keterampilan saya dalam pengembangan web.
+
+Keterampilan Utama:
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+Responsif Desain Web
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-sarwani-/)ku ya.
