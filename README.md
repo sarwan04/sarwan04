@@ -24,6 +24,6 @@ Responsif Desain Web
   <br> 
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/muhammad-sarwani-//">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/muhammad-sarwan//">LinkedIn</a>
 - msisarwan@gmail.com
 
