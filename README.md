@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muhammad Sarwani**.<br>
 
 Saya seorang **Web Developer**<br>
 
-Saya adalah seorang yang antusias dalam mendalami dunia pemrograman web. Saya memiliki keahlian dalam berbagai teknologi web, termasuk HTML, CSS, JavaScript, dan kerangka kerja seperti React dan Node.js. Saya memiliki pengalaman dalam membangun situs web responsif dan aplikasi web dinamis. Saya senang belajar hal baru dan selalu bersemangat untuk meningkatkan keterampilan saya dalam pengembangan web.
+Saya adalah seorang Web Developer. Saya memiliki keahlian dalam berbagai teknologi web, termasuk HTML, CSS, JavaScript, dan kerangka kerja seperti React dan Node.js. Saya memiliki pengalaman dalam membangun situs web responsif dan aplikasi web dinamis. Saya senang belajar hal baru dan selalu bersemangat untuk meningkatkan keterampilan saya dalam pengembangan web.
 
 Keterampilan Utama:
 
